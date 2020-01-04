@@ -1,0 +1,103 @@
+body{
+    background: #fff;
+    color:#000;
+}
+
+h1{
+    text-align:center;
+}
+
+#main_screen{
+    background:rgba(214, 233, 248, 0.85);
+    height:400px;
+    margin-top:-157px;
+    border-radius: 30px;
+}
+
+.foodie-bg{
+    text-align: center;
+    margin: 0 auto;
+    width: 680px;
+    height: auto;
+}
+
+.foodie-logo{
+    display: block;
+    text-align: center;
+    margin: -68px auto 0 auto;
+    width: 596px;
+    height: auto;
+}
+
+#timersection{
+    margin: 0 auto;
+    width:220px;
+}
+
+#timerremaintext{
+    float:left;
+}
+
+#timerremainvalue{
+    float:left;
+}
+
+#timerremainseconds{
+    float:left;
+}
+
+#startbuttonsection{
+    text-align:center;
+    width: 220px;
+    margin:0 auto;
+    
+
+}
+
+.startbtn{
+    background-color: #fcac19;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 16px auto 0 auto;
+    cursor: pointer;
+    text-align:center;
+    
+}
+
+.trivia{
+    margin-top:20px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#answers-view{
+    margin:0 auto;
+    text-align:center;
+}
+
+#theBigQ{
+    margin:0 auto;
+    text-align:center;
+}
+
+.reset{
+    margin-top:20px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#resetholder{
+    text-align:center;
+    margin:0 auto;
+}
+
+#gameover{
+    text-align:center;
+    margin:0 auto;
+    margin-top:20px;
+}
